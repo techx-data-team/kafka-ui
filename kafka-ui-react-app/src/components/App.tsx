@@ -76,10 +76,6 @@ const App: React.FC = () => {
                       <Logo />
                       UI for Apache Kafka
                     </S.Hyperlink>
-
-                    <S.NavbarItem>
-                      <Version />
-                    </S.NavbarItem>
                   </S.NavbarBrand>
                 </S.NavbarBrand>
                 <S.NavbarSocial>
